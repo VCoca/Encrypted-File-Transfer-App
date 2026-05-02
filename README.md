@@ -17,6 +17,12 @@ Desktop application that encrypts and transfers files between users.
 - Networking
 - Encryption
 
+## Screenshots
+
+<img width="937" height="753" alt="Screenshot 2026-04-30 204923" src="https://github.com/user-attachments/assets/783e38f8-7fcb-4ba8-aee4-38fc4dcce7ab" />
+
+<img width="935" height="755" alt="Screenshot 2026-04-30 205153" src="https://github.com/user-attachments/assets/2ded4a87-cfdb-45de-9002-9f5ce6a0ebc1" />
+
 ## What I learned
 
 This project helped me understand file encryption techniques,
